@@ -10,9 +10,9 @@ Database retirado de: https://dados.gov.br/dataset/preco-de-medicamentos-no-bras
 	a. O nome dos campos do arquivo<br>	
 	b. O produto com o maior preço de fábrica sem impostos (todos se tiver mais que um com o maior preço)<br>
 	c. Quais os possíveis tipos de produtos<br>
-	d. O produto e preço do genérico mais barato<br>
-**2. Salve todos os registros com o preço final sem impostos superior a ‘100’, com comercialização 2018 marcada como ‘Sim’ e que sejam Tarja Vermelha em um arquivo chamado “output.csv”**
-**3. Leia o arquivo que você criou no item anterior e ordene o conteúdo por ordem alfabética do campo produto (sobrescreva o arquivo com os registros ordenados).<br>**
+	d. O produto e preço do genérico mais barato<br><br>
+**2. Salve todos os registros com o preço final sem impostos superior a ‘100’, com comercialização 2018 marcada como ‘Sim’ e que sejam Tarja Vermelha em um arquivo chamado “output.csv”**<br><br>
+**3. Leia o arquivo que você criou no item anterior e ordene o conteúdo por ordem alfabética do campo produto (sobrescreva o arquivo com os registros ordenados).<br>**<br>
 **4. Com o conteúdo deste segundo arquivo, responda:<br>**
 	a. Qual o valor total (soma) dos preços finais sem imposto?<br>
 	b. Quantos tipos diferentes de produtos estão presentes?<br>
